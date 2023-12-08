@@ -42,7 +42,6 @@
   <img  alt="Harsh Lodhi | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
