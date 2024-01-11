@@ -63,10 +63,10 @@
 ## 🌏 Get in Touch
 
 <a href="https://twitter.com/Harsh11lodhi">
-  <img  alt="Harsh Lodhi | X "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+  <img  alt="Harsh Lodhi | X "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=50 height=50/>
 </a>
 <a href="https://www.linkedin.com/in/harsh-lodhi-a54281196/">
-  <img  alt="Harsh Lodhi | LinkedIn "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <img  alt="Harsh Lodhi | LinkedIn "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50 height=50/>
 </a>
 
 <!-- <b>My GitHub Stats</b>
