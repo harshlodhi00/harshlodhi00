@@ -33,6 +33,15 @@
 
 </div>
 
+
+  <br/>
+  <br/>
+  
+  [![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshlodhi00&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <br/>
+  <br/>
+
 ## 🌏 Get in Touch
 
 <a href="https://twitter.com/Harsh11lodhi">
