@@ -33,7 +33,6 @@
 
 </div>
 
-
   <br/>
   <br/>
   
@@ -41,6 +40,15 @@
   
   <br/>
   <br/>
+
+  <div align="center" style="width:100%;   display: flex; flex-direction:column;
+  justify-content: center; align-items:center">
+  <div>
+  Visitor count </div>
+  <div>
+  <img src="https://profile-counter.glitch.me/harshlodhi00/count.svg" />
+  </div>
+</div>
 
 ## 🌏 Get in Touch
 
@@ -51,7 +59,6 @@
   <img  alt="Harsh Lodhi | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
+<!-- <b>My GitHub Stats</b>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/harshlodhi00"><img src="https://github-readme-stats.vercel.app/api?username=harshlodhi00&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Harsh Lodhi's GitHub Stats" /></a>
+<a href="http://www.github.com/harshlodhi00"><img src="https://github-readme-stats.vercel.app/api?username=harshlodhi00&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Harsh Lodhi's GitHub Stats" /></a> -->
