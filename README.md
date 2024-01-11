@@ -40,7 +40,7 @@
   justify-content: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshlodhi00&theme=vue-dark&hide_border=false" alt="harsh lodhi github stats" /></div>
 
 
-![harshlodhi00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshlodhi00&theme=vue-dark&hide_border=false)
+<!-- ![harshlodhi00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshlodhi00&theme=vue-dark&hide_border=false) -->
   <br/>
   <br/>
   
