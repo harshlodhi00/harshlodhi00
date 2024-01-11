@@ -36,27 +36,37 @@
   <br/>
   <br/>
   
+<div align="center" style="width:100%;display: flex;
+  justify-content: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshlodhi00&" alt="harsh lodhi github stats" /></div>
+
+  <br/>
+  <br/>
+  
   [![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshlodhi00&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <br/>
   <br/>
 
-  <div align="center" style="width:100%;   display: flex; flex-direction:column;
+<div align="center" style="width:100%;   display: flex; flex-direction:column;
   justify-content: center; align-items:center">
   <div>
-  Visitor count </div>
+  Visitor count
+  </div>
   <div>
   <img src="https://profile-counter.glitch.me/harshlodhi00/count.svg" />
   </div>
 </div>
 
+  <br/>
+  <br/>
+
 ## 🌏 Get in Touch
 
 <a href="https://twitter.com/Harsh11lodhi">
-  <img  alt="Harsh Lodhi | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  <img  alt="Harsh Lodhi | X "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/harsh-lodhi-a54281196/">
-  <img  alt="Harsh Lodhi | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img  alt="Harsh Lodhi | LinkedIn "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
 <!-- <b>My GitHub Stats</b>
